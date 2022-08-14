@@ -1,0 +1,4 @@
+/* If you put any object as an 'hidden variable, it will be hidden. */
+.hidden {
+  display: none;
+}
